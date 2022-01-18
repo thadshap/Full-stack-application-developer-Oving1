@@ -105,6 +105,7 @@ section {
 .increment-box, .hide-box, .list-of-words{
     padding-top: 5em;
     text-align: center;
+    margin:auto;
 }
 
 .subtract, .number, .add {
@@ -304,7 +305,7 @@ ul.primary-nav {
 
     h1 {
         font-size: 3em;
-        width: 90%;
+        min-width: 90%;
     }
 
     .hero-img {
